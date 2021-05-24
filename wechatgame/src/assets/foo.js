@@ -1,0 +1,1 @@
+var foo;(function(o){o.bar=2,console.log("\u6a21\u62df\u94fe\u63a5\u5230\u7f51\u7edc")})(foo||(foo={})),window.foo=foo;
